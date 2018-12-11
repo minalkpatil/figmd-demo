@@ -1,8 +1,8 @@
 #!/bin/sh
 
 echo "current working dir `pwd`"
-TOP=/data1/patdev1/myProjects/c
-cd $TOP
+#TOP=/data1/patdev1/myProjects/c
+cd src/c
 echo "New current working dir `pwd`"
 echo "started building c math project "
 echo "+++++++++++++++++++++++++++++++++++++++++++++++"
